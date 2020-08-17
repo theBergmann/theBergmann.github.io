@@ -1,0 +1,13 @@
+{
+  "addresses": [
+    {
+      "paymentNetwork": "XRP",
+      "environment": "MAINNET",
+      "addressDetailsType": "CryptoAddressDetails",
+      "addressDetails": {
+        "address": "rJ5ma4PRtAQbtEZsLrHsdRzPddg9MfgrWC"
+      }
+    }
+  ],
+  "payId": "pay$mobybit.shop"
+}
